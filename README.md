@@ -8,13 +8,13 @@ Pokédex interativa desenvolvida com React, consumindo dados da [PokeAPI](https:
 
 ## Screenshots
 
-### Página inicial — listagem e filtros
+### Página inicial
 ![Listagem de Pokémon com busca e filtro por tipo](./images/img1.png)
 
-### Favoritos — persistidos no navegador
+### Favoritos 
 ![Página de favoritos com Pokémon salvos](./images/img2.png)
 
-### Detalhes — stats, habilidades e formas Mega
+### Detalhes 
 ![Página de detalhes do Mega Charizard X](./images/img3.png)
 
 ---
