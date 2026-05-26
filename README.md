@@ -1,6 +1,6 @@
 # Pokédex React
 
-Pokédex interativa desenvolvida com React, consumindo dados da [PokeAPI](https://pokeapi.co/). O projeto permite explorar Pokémon, buscar por nome ou ID, filtrar por tipo, salvar favoritos e visualizar detalhes completos de cada criatura.
+Pokédex interativa desenvolvida com React, consumindo dados da [PokeAPI](https://pokeapi.co/).
 
 **Demo:** [arthurcruzz17.github.io/pokedex-react](https://arthurcruzz17.github.io/pokedex-react/)
 
